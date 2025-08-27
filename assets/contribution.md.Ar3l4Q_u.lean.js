@@ -1,1 +1,0 @@
-import{_ as t,c as a,o,ae as r}from"./chunks/framework.Bn_nTlqC.js";const h=JSON.parse('{"title":"贡献指南","description":"","frontmatter":{},"headers":[],"relativePath":"contribution.md","filePath":"contribution.md"}'),s={name:"contribution.md"};function i(n,e,l,c,p,d){return o(),a("div",null,e[0]||(e[0]=[r("",18)]))}const g=t(s,[["render",i]]);export{h as __pageData,g as default};
